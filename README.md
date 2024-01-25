@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jetlow345@gmail.com**
 
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+<img align = "right" height = "150" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Y5Y2U3b2Z0bnk2aGM4ZndnM3NqeWtqd3FhdG96ZnJ6c3Q5ZXJtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
