@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jet</h1>
 <h3 align="center">A passionate software engineer from Malaysia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jetlow345" alt="jetlow345" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://jetlow345.netlify.app/](https://jetlow345.netlify.app/)
@@ -23,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jetlow345&show_icons=true&locale=en" alt="jetlow345" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jetlow345&" alt="jetlow345" /></p>
+
