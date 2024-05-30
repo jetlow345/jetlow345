@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jet</h1>
 <h3 align="center">A passionate software engineer from Malaysia</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** , **Angular** and **.Net**
 
 - 👨‍💻 All of my projects are available at [https://jetlow345.netlify.app/](https://jetlow345.netlify.app/)
 
